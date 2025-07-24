@@ -1,13 +1,6 @@
 # 👋 Sobre mim
 
-Sou Ricardo de Carvalho Destro, pesquisador, professor e executivo com mais de 25 anos de experiência em tecnologia, inovação e inteligência artificial. Minha jornada combina atuação acadêmica sólida com liderança estratégica em empresas nacionais e multinacionais.
-
-## 🎓 Formação Acadêmica
-
-- Doutor em Engenharia Elétrica – *Machine Learning*, Centro Universitário FEI (2016)
-- Mestre em Engenharia – *Redes Neurais Artificiais*, POLI-USP (2002)
-- Engenheiro Eletricista com ênfase em Computadores, FEI (1999)
-- Técnico em Eletrônica, ETE Jorge Street (1993)
+Sou Ricardo Destro, pesquisador, professor e executivo com mais de 25 anos de experiência em tecnologia, inovação e inteligência artificial. Minha jornada combina atuação acadêmica com o mundo corporativo, buscando equilíbrio entre o sucesso a operação e jornada de transformação
 
 ## 👨‍🏫 Atuação Acadêmica
 
@@ -15,6 +8,14 @@ Sou Ricardo de Carvalho Destro, pesquisador, professor e executivo com mais de 2
 - Docente em cursos de pós-graduação no Hospital Sírio-Libanês, FIAP, FECAP e FMU
 - Pesquisador no Laboratório de Inteligência Artificial Aplicada à Automação (IAAA)
 - Participação em bancas de mestrado e doutorado, além de orientação de diversos TCCs e iniciações científicas
+
+
+## 🎓 Formação Acadêmica
+
+- Doutor em Engenharia Elétrica – *Machine Learning*, Centro Universitário FEI (2016)
+- Mestre em Engenharia – *Redes Neurais Artificiais*, POLI-USP (2002)
+- Engenheiro Eletricista com ênfase em Computadores, FEI (1999)
+- Técnico em Eletrônica, ETE Jorge Street (1993)
 
 ## 🧠 Áreas de Interesse
 
@@ -34,7 +35,7 @@ Os meus projetos no GitHub envolvem basicamente as aulas e palestras que minitre
 
 ## 🌐 Experiência Internacional
 
-- Membro dos comitês da AFNOR (França) para normas J/XFS e Sistemas Críticos
+- Membro dos comitês da AFNOR (França) para normas J/XFS e Sistemas Críticos entre 2009 e 2016
 - Palestrante em congressos internacionais com mais de 20 artigos publicados
 
 
@@ -48,6 +49,7 @@ Os meus projetos no GitHub envolvem basicamente as aulas e palestras que minitre
 ---
 
 🔗 **Currículo Lattes**: [lattes.cnpq.br/5088163670194738](http://lattes.cnpq.br/5088163670194738)
+
 
 > “Tecnologia é meio, conhecimento é ponte, inovação é destino.”
 
